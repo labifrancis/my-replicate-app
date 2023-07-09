@@ -51,7 +51,7 @@ export default function Home() {
       </Head>
 
       
-        <p>Describe an image and it will be created for you(i.e a man walk at the beach)
+        <p>Describe an image and it will be created for you(i.e a man walking at the beach)
 
         </p>
    
